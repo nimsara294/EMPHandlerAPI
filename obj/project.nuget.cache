@@ -1,0 +1,15 @@
+{
+  "version": 2,
+  "dgSpecHash": "nPPlhY6Y3eglbsOwux+glzlRaL0mcQ3i17gyb2FHL5SyWcqf8QT54A0fCmMwgiHM2c2mSuv9exrj8LI57L0M6w==",
+  "success": true,
+  "projectFilePath": "E:\\React\\EmpManager\\EMPHandlerAPI\\EMPHandlerAPI\\EMPHandlerAPI.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\N3THTH4\\.nuget\\packages\\microsoft.extensions.apidescription.server\\6.0.5\\microsoft.extensions.apidescription.server.6.0.5.nupkg.sha512",
+    "C:\\Users\\N3THTH4\\.nuget\\packages\\microsoft.openapi\\1.2.3\\microsoft.openapi.1.2.3.nupkg.sha512",
+    "C:\\Users\\N3THTH4\\.nuget\\packages\\swashbuckle.aspnetcore\\6.5.0\\swashbuckle.aspnetcore.6.5.0.nupkg.sha512",
+    "C:\\Users\\N3THTH4\\.nuget\\packages\\swashbuckle.aspnetcore.swagger\\6.5.0\\swashbuckle.aspnetcore.swagger.6.5.0.nupkg.sha512",
+    "C:\\Users\\N3THTH4\\.nuget\\packages\\swashbuckle.aspnetcore.swaggergen\\6.5.0\\swashbuckle.aspnetcore.swaggergen.6.5.0.nupkg.sha512",
+    "C:\\Users\\N3THTH4\\.nuget\\packages\\swashbuckle.aspnetcore.swaggerui\\6.5.0\\swashbuckle.aspnetcore.swaggerui.6.5.0.nupkg.sha512"
+  ],
+  "logs": []
+}
